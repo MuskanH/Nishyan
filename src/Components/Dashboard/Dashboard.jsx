@@ -1,7 +1,7 @@
 import React from 'react'
 import "./dashboard.css"
 import Header from '../Header/Header'
-import Content from '../Content/content'
+import Content from '../Content/Content'
 import Table from '../Table/Table'
 
 const Dashboard = () => {
